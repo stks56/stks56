@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stks56&theme=transparent
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stks56&theme=transparent&exclude=HCL,Dockerfile,Shell
