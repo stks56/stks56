@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stks56&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stks56&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stks56&theme=transparent&exclude=HCL,Dockerfile,Shell)
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stks56&show_icons=true&theme=transparent" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stks56&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
