@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-dusky-iota-39.vercel.app/api?username=stks56&show_icons=true&theme=transparent&hide=stars&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-dusky-iota-39.vercel.app/api/top-langs/?username=stks56&theme=transparent&layout=compact&langs_count=8&card_width=320&hide=scss,html" />
+  <img height=200 align="center" src="https://github-readme-stats-dusky-iota-39.vercel.app/api/top-langs/?username=stks56&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
